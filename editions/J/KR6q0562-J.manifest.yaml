@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0562_000-J.yaml, hash: 'sha256:db5a600db0ba73f9c46b27ab8223c1a5582390a21035591fa46e9c3d895a7d0f'}
+  - {seq: 0, filename: KR6q0562_000-J.yaml, hash: 'sha256:90ebd6ea8d2969d235502d62b61034c9fecc1749ec275b90720dc0e9c694cd4f'}
   - {seq: 1, filename: KR6q0562_001-J.yaml, hash: 'sha256:8a9a095e56f97de0b424fc0ec42f2ecad6d6da0683b9cb33a0e65c7fb2a2e13f'}
   - {seq: 2, filename: KR6q0562_002-J.yaml, hash: 'sha256:d8a11cf0af6c9afdcab9a356d0f8da9bf55a6bcf0ca403340b4ab559f39e33df'}
   - {seq: 3, filename: KR6q0562_003-J.yaml, hash: 'sha256:f2b120f5221906b323e085a8fe13d21d025b603f5ca5e64806343c5824812c5c'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0562_005-J.yaml, hash: 'sha256:6f1fe5a9f56f92bbd4eb7f8742f3e4d4ffc40f092c9131893688cc3c5569a443'}
   - {seq: 6, filename: KR6q0562_006-J.yaml, hash: 'sha256:dba8ea9744238f9c77c72fe77727e0f62760c1ecfda12e80cef731b25b38b85a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0562_000-J.markers.yaml, hash: 'sha256:d366dc8a781e9b05526f51de9496eaa6d8fa8011286eb02e79fbb355684b22ef'}
+  - {seq: 0, role: markers, filename: assets/KR6q0562_000-J.markers.yaml, hash: 'sha256:cbd5cc2972d95a65076f3dec1664ba32c5440a0bcef9e3a8e88c957ea0584fbf'}
   - {seq: 1, role: markers, filename: assets/KR6q0562_001-J.markers.yaml, hash: 'sha256:334931fd19d21480c749680056d2e692297ab07d8b1650c54156cc2bc3668473'}
   - {seq: 2, role: markers, filename: assets/KR6q0562_002-J.markers.yaml, hash: 'sha256:88ba71acda11b9ac61e51aaccbe33e39e9dccff628ca8775ce2ff4a0dd165c5e'}
   - {seq: 3, role: markers, filename: assets/KR6q0562_003-J.markers.yaml, hash: 'sha256:7aed2d2c3ec61608d327cf24d521365df04e99cde8063232c37c4d3af72f1fbe'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0562_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0562_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 沈宗敬序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0562_J_000-mulu-3
     span:
-    - front
+    - body
     - 406
     - 406
   label: 吳騏序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0562_J_000-mulu-4
     span:
-    - front
+    - body
     - 834
     - 834
   label: 大珍序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0562_J_000-mulu-5
     span:
-    - front
+    - body
     - 1165
     - 1165
   label: 目錄
@@ -1775,4 +1775,4 @@ table_of_contents:
   label: 後跋
   type: mulu
   level: 1
-hash: sha256:5d108b64bc90177a1c4f9a6c68c7da9b1514ac9a95828f46855ca5313ee5aa99
+hash: sha256:4eff1410137623b9f719e4f570aded3034040caedb5014c262949dd8243069e8
